@@ -1,0 +1,100 @@
+1,The cat is _____ on the mat.,sit,sits,sat,sitting,D
+2,He _____ to school every day.,walk,walks,walked,walking,B
+3,She _____ a book yesterday.,read,reads,was reading,read,C
+4,They _____ to the beach last summer.,go,goes,went,going,C
+5,My sister _____ in London.,live,lives,lived,living,B
+6,The sun _____ in the sky.,shine,shines,shone,shining,B
+7,We _____ dinner at 7 o'clock.,have,has,had,are having,D
+8,He _____ his homework yesterday.,did,does,doing,done,A
+9,The baby _____ loudly in the other room.,cry,cries,cried,crying,B
+10,She _____ her keys on the table.,put,puts,putting,put,A
+11,They _____ a movie last night.,watch,watches,watched,watching,C
+12,The birds _____ on the trees.,sing,sings,sang,are singing,D
+13,He _____ the cake for his birthday.,bake,bakes,baked,baking,C
+14,We _____ to the park every Sunday.,go,goes,went,going,A
+15,The teacher _____ the students in the classroom.,teach,teaches,taught,teaching,C
+16,My brother _____ soccer every weekend.,play,plays,played,playing,B
+17,She _____ her friend on the phone.,call,calls,called,calling,C
+18,He _____ a new car last month.,buy,buys,bought,buying,C
+19,I _____ my keys. I can't find them anywhere.,lose,loses,lost,losing,C
+20,They _____ their homework now.,do,does,doing,done,D
+21,She _____ her hair every morning.,brush,brushes,brushed,brushing,A
+22,The baby _____ at her mother.,smile,smiles,smiled,smiling,B
+23,He _____ a cold last week.,have,has,had,having,C
+24,They _____ their lunch in the cafeteria.,eat,eats,ate,eating,A
+25,The dog _____ in the garden.,run,runs,ran,running,A
+26,She _____ English very well.,speak,speaks,spoke,speaking,B
+27,We _____ to the zoo last Sunday.,go,goes,went,going,C
+28,He _____ his bike to work every day.,ride,rides,rode,riding,B
+29,The baby _____ his bottle.,drink,drinks,drank,drinking,A
+30,She _____ her umbrella because it's raining.,bring,brings,brought,bringing,C
+31,They _____ a new house next year.,buy,buys,bought,buying,A
+32,He _____ his breakfast every morning.,eat,eats,ate,eating,B
+33,She _____ her homework last night.,do,does,doing,done,A
+34,The cat _____ the mouse.,catch,catches,caught,catching,B
+35,We _____ TV in the living room.,watch,watches,watched,watching,A
+36,He _____ his sister to school every day.,take,takes,took,taking,D
+37,She _____ her hair every morning.,wash,washes,washed,washing,A
+38,They _____ dinner at the restaurant last night.,have,has,had,having,C
+39,He _____ his leg in the accident.,break,breaks,broke,breaking,C
+40,She _____ a cake for her birthday.,bake,bakes,baked,baking,B
+41,The children _____ in the playground.,play,plays,played,playing,A
+42,He _____ to his friend's house last weekend.,go,goes,went,going,C
+43,She _____ her keys on the table.,leave,leaves,left,leaving,B
+44,They _____ a new car last year.,buy,buys,bought,buying,C
+45,He _____ his homework yesterday.,finish,finishes,finished,finishing,C
+46,The cat _____ on the bed.,lie,lies,lay,lying,C
+47,We _____ our holiday last month.,enjoy,enjoys,enjoyed,enjoying,C
+48,He _____ his shoes before entering the house.,take,takes,took,taking,B
+49,She _____ breakfast every morning.,eat,eats,ate,eating,A
+50,They _____ their lunch in the cafeteria.,eat,eats,ate,eating,D
+51,The dog _____ in the garden.,dig,digs,dug,digging,B
+52,She _____ to the party last night.,go,goes,went,going,C
+53,He _____ his bike to work every day.,ride,rides,rode,riding,C
+54,She _____ a new dress for the party.,buy,buys,bought,buying,B
+55,He _____ his breakfast every morning.,eat,eats,ate,eating,A
+56,She _____ her umbrella because it's raining.,bring,brings,brought,bringing,B
+57,They _____ a new house next year.,buy,buys,bought,buying,A
+58,He _____ his lunch at work.,have,has,had,having,D
+59,She _____ her homework last night.,do,does,doing,done,A
+60,The cat _____ the mouse.,catch,catches,caught,catching,C
+61,We _____ TV in the living room.,watch,watches,watched,watching,A
+62,He _____ his sister to school every day.,take,takes,took,taking,D
+63,She _____ her hair every morning.,wash,washes,washed,washing,A
+64,They _____ dinner at the restaurant last night.,have,has,had,having,C
+65,He _____ his leg in the accident.,break,breaks,broke,breaking,C
+66,She _____ a cake for her birthday.,bake,bakes,baked,baking,B
+67,The children _____ in the playground.,play,plays,played,playing,A
+68,He _____ to his friend's house last weekend.,go,goes,went,going,C
+69,She _____ her keys on the table.,leave,leaves,left,leaving,B
+70,They _____ a new car last year.,buy,buys,bought,buying,C
+71,He _____ his homework yesterday.,finish,finishes,finished,finishing,C
+72,The cat _____ on the bed.,lie,lies,lay,lying,C
+73,We _____ our holiday last month.,enjoy,enjoys,enjoyed,enjoying,C
+74,He _____ his shoes before entering the house.,take,takes,took,taking,B
+75,She _____ breakfast every morning.,eat,eats,ate,eating,A
+76,They _____ their lunch in the cafeteria.,eat,eats,ate,eating,D
+77,The dog _____ in the garden.,dig,digs,dug,digging,B
+78,She _____ to the party last night.,go,goes,went,going,C
+79,He _____ his bike to work every day.,ride,rides,rode,riding,C
+80,She _____ a new dress for the party.,buy,buys,bought,buying,C
+81,He _____ his breakfast every morning.,eat,eats,ate,eating,B
+82,She _____ her umbrella because it's raining.,bring,brings,brought,bringing,B
+83,They _____ a new house next year.,will buy,buys,bought,buying,A
+84,He _____ his lunch at work.,have,has,had,is having,D
+85,She _____ her homework last night.,did,does,doing,done,A
+86,The cat _____ the mouse.,catch,catches,caught,catching,C
+87,We _____ TV in the living room.,watch,watches,watched,watching,A
+88,He _____ his sister to school every day.,take,takes,took,taking,D
+89,She _____ her hair every morning.,wash,washes,washed,washing,A
+90,They _____ dinner at the restaurant last night.,have,has,had,having,C
+91,He _____ his leg in the accident.,break,breaks,broke,breaking,C
+92,She _____ a cake for her birthday.,bake,bakes,baked,baking,B
+93,The children _____ in the playground.,play,plays,played,playing,A
+94,He _____ to his friend's house last weekend.,go,goes,went,going,C
+95,She _____ her keys on the table.,leave,leaves,left,leaving,B
+96,They _____ a new car last year.,buy,buys,bought,buying,C
+97,He _____ his homework yesterday.,finish,finishes,finished,finishing,C
+98,The cat _____ on the bed.,lie,lies,lay,lying,C
+99,We _____ our holiday last month.,enjoy,enjoys,enjoyed,enjoying,C
+100,He _____ his shoes before entering the house.,take,takes,took,taking,B
